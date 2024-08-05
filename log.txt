@@ -1,0 +1,383 @@
+UserID: 6758082727 | Time: 2024-07-29 01:43:30.958272 | Command: /bgmi | Target: 20.204.20.204 | Port: 10241 | Time: 240
+Username: nandyadu1c
+Target: 20.204.20.204
+Port: 10241
+Time: 240
+
+UserID: 6758082727 | Time: 2024-07-29 02:21:18.178932 | Command: /bgmi | Target: 1 | Port: 1 | Time: 20
+Username: nandyadu1c
+Target: 1
+Port: 1
+Time: 20
+
+UserID: 6758082727 | Time: 2024-07-29 02:25:52.431868 | Command: /bgmi | Target: 20.235.53.164 | Port: 23996 | Time: 240
+Username: nandyadu1c
+Target: 20.235.53.164
+Port: 23996
+Time: 240
+
+UserID: 1895702860 | Time: 2024-07-29 05:57:24.539885 | Command: /bgmi | Target: 1 | Port: 1 | Time: 1
+Username: baju31
+Target: 1
+Port: 1
+Time: 1
+
+UserID: 6758082727 | Time: 2024-07-29 07:00:38.076780 | Command: /bgmi | Target: 20.235.146.46 | Port: 17378 | Time: 180
+Username: nandyadu1c
+Target: 20.235.146.46
+Port: 17378
+Time: 180
+
+UserID: 1895702860 | Time: 2024-07-29 07:06:20.291814 | Command: /bgmi | Target: 20.235.146.237 | Port: 24502 | Time: 120
+Username: baju31
+Target: 20.235.146.237
+Port: 24502
+Time: 120
+
+UserID: 6758082727 | Time: 2024-07-29 09:30:56.020854 | Command: /bgmi | Target: 20.204.16.14 | Port: 17249 | Time: 300
+Username: nandyadu1c
+Target: 20.204.16.14
+Port: 17249
+Time: 300
+
+UserID: 1895702860 | Time: 2024-07-29 09:33:48.732347 | Command: /bgmi | Target: 20.198.78.59 | Port: 15547 | Time: 300
+Username: baju31
+Target: 20.198.78.59
+Port: 15547
+Time: 300
+
+UserID: 6600486066 | Time: 2024-07-29 10:37:41.916533 | Command: /bgmi | Target: 20.198.107.123 | Port: 15812 | Time: 300
+Username: UserID: 6600486066
+Target: 20.198.107.123
+Port: 15812
+Time: 300
+
+UserID: 6600486066 | Time: 2024-07-29 10:42:49.302510 | Command: /bgmi | Target: 20.198.107.123 | Port: 15812 | Time: 300
+Username: UserID: 6600486066
+Target: 20.198.107.123
+Port: 15812
+Time: 300
+
+UserID: 6600486066 | Time: 2024-07-30 00:25:19.114918 | Command: /bgmi | Target: 20.198.111.3 | Port: 27333 | Time: 300
+UserID: 6600486066 | Time: 2024-07-30 00:25:19.153964 | Command: /bgmi | Target: 20.198.111.3 | Port: 27333 | Time: 300
+Username: lopi_op_99
+Target: 20.198.111.3
+Port: 27333
+Time: 300
+
+Username: lopi_op_99
+Target: 20.198.111.3
+Port: 27333
+Time: 300
+
+UserID: 6600486066 | Time: 2024-07-30 03:28:17.567688 | Command: /bgmi | Target: 1 | Port: 1 | Time: 1
+UserID: 6600486066 | Time: 2024-07-30 03:30:45.944797 | Command: /bgmi | Target: 1 | Port: 1 | Time: 1
+UserID: 6600486066 | Time: 2024-07-30 03:30:45.947302 | Command: /bgmi | Target: 20.235.148.44 | Port: 25354 | Time: 1
+Username: lopi_op_99
+Target: 20.235.148.44
+Port: 25354
+Time: 1
+
+Username: lopi_op_99
+Target: 1
+Port: 1
+Time: 1
+
+UserID: 6600486066 | Time: 2024-07-30 03:45:03.450316 | Command: /bgmi | Target: 20.219.167.77 | Port: 23166 | Time: 10
+Username: lopi_op_99
+Target: 20.219.167.77
+Port: 23166
+Time: 10
+
+UserID: 6600486066 | Time: 2024-07-30 03:48:07.717787 | Command: /bgmi | Target: 20.219.167.77 | Port: 23166 | Time: 10
+Username: lopi_op_99
+Target: 20.219.167.77
+Port: 23166
+Time: 10
+
+UserID: 6600486066 | Time: 2024-07-30 07:59:45.006778 | Command: /bgmi | Target: 20.198.110.70 | Port: 22465 | Time: 20
+Username: lopi_op_99
+Target: 20.198.110.70
+Port: 22465
+Time: 20
+
+UserID: 6600486066 | Time: 2024-07-30 08:08:56.916873 | Command: /bgmi | Target: 20.198.110.70 | Port: 22465 | Time: 180
+UserID: 6600486066 | Time: 2024-07-30 08:10:11.605683 | Command: /bgmi | Target: 20.198.110.70 | Port: 22465 | Time: 180
+Username: lopi_op_99
+Target: 20.198.110.70
+Port: 22465
+Time: 180
+
+UserID: 6600486066 | Time: 2024-07-30 08:27:38.122282 | Command: /bgmi | Target: 52.172.25.254 | Port: 13322 | Time: 120
+Username: lopi_op_99
+Target: 52.172.25.254
+Port: 13322
+Time: 120
+
+UserID: 6600486066 | Time: 2024-07-30 08:33:52.833959 | Command: /bgmi | Target: 20.198.78.59 | Port: 15720 | Time: 300
+Username: lopi_op_99
+Target: 20.198.78.59
+Port: 15720
+Time: 300
+
+UserID: 6600486066 | Time: 2024-07-30 08:38:56.803174 | Command: /bgmi | Target: 20.198.78.59 | Port: 15720 | Time: 300
+Username: lopi_op_99
+Target: 20.198.78.59
+Port: 15720
+Time: 300
+
+UserID: 6600486066 | Time: 2024-07-30 08:55:04.186344 | Command: /bgmi | Target: 20.198.78.59 | Port: 15720 | Time: 120
+UserID: 6600486066 | Time: 2024-07-30 08:55:57.865676 | Command: /bgmi | Target: 20.198.78.59 | Port: 15720 | Time: 60
+Username: lopi_op_99
+Target: 20.198.78.59
+Port: 15720
+Time: 60
+
+UserID: 6600486066 | Time: 2024-07-30 09:17:55.484051 | Command: /bgmi | Target: 20.204.21.77 | Port: 10445 | Time: 300
+Username: lopi_op_99
+Target: 20.204.21.77
+Port: 10445
+Time: 300
+
+UserID: 6600486066 | Time: 2024-07-30 09:23:00.172744 | Command: /bgmi | Target: 20.204.21.77 | Port: 10445 | Time: 300
+Username: lopi_op_99
+Target: 20.204.21.77
+Port: 10445
+Time: 300
+
+UserID: 6600486066 | Time: 2024-07-30 09:26:00.738451 | Command: /bgmi | Target: 20.204.21.77 | Port: 10445 | Time: 60
+Username: lopi_op_99
+Target: 20.204.21.77
+Port: 10445
+Time: 60
+
+UserID: 6758082727 | Time: 2024-07-30 16:22:41.609610 | Command: /bgmi | Target: 20.198.111.123 | Port: 11944 | Time: 180
+Username: nandyadu1c
+Target: 20.198.111.123
+Port: 11944
+Time: 180
+
+UserID: 6758082727 | Time: 2024-07-30 18:58:40.572079 | Command: /bgmi | Target: 4.213.66.124 | Port: 24851 | Time: 180
+Username: nandyadu1c
+Target: 4.213.66.124
+Port: 24851
+Time: 180
+
+UserID: 6758082727 | Time: 2024-07-30 19:01:42.759395 | Command: /bgmi | Target: 4.213.66.124 | Port: 24851 | Time: 180
+Username: nandyadu1c
+Target: 4.213.66.124
+Port: 24851
+Time: 180
+
+UserID: 6758082727 | Time: 2024-07-30 19:01:58.361049 | Command: /bgmi | Target: 4.213.66.124 | Port: 24851 | Time: 180
+Username: nandyadu1c
+Target: 4.213.66.124
+Port: 24851
+Time: 180
+
+UserID: 6758082727 | Time: 2024-07-30 19:05:07.867903 | Command: /bgmi | Target: 4.213.66.124 | Port: 24851 | Time: 180
+Username: nandyadu1c
+Target: 4.213.66.124
+Port: 24851
+Time: 180
+
+UserID: 6758082727 | Time: 2024-07-30 19:27:49.081590 | Command: /bgmi | Target: 4.213.66.124 | Port: 24851 | Time: 180
+Username: nandyadu1c
+Target: 4.213.66.124
+Port: 24851
+Time: 180
+
+UserID: 6758082727 | Time: 2024-07-30 19:30:58.522096 | Command: /bgmi | Target: 4.213.66.124 | Port: 24851 | Time: 180
+Username: nandyadu1c
+Target: 4.213.66.124
+Port: 24851
+Time: 180
+
+UserID: 6758082727 | Time: 2024-07-31 05:06:31.685307 | Command: /bgmi | Target: 20.204.191.192 | Port: 10121 | Time: 180
+Username: nandyadu1c
+Target: 20.204.191.192
+Port: 10121
+Time: 180
+
+UserID: 6758082727 | Time: 2024-07-31 05:09:44.564863 | Command: /bgmi | Target: 20.204.191.192 | Port: 10121 | Time: 180
+Username: nandyadu1c
+Target: 20.204.191.192
+Port: 10121
+Time: 180
+
+UserID: 6758082727 | Time: 2024-07-31 05:12:51.529172 | Command: /bgmi | Target: 20.204.191.192 | Port: 10121 | Time: 180
+UserID: 6758082727 | Time: 2024-07-31 05:13:11.529646 | Command: /bgmi | Target: 20.204.191.192 | Port: 10121 | Time: 180
+Username: nandyadu1c
+Target: 20.204.191.192
+Port: 10121
+Time: 180
+
+UserID: 6758082727 | Time: 2024-07-31 05:16:25.218793 | Command: /bgmi | Target: 20.204.191.192 | Port: 10121 | Time: 60
+Username: nandyadu1c
+Target: 20.204.191.192
+Port: 10121
+Time: 60
+
+UserID: 6758082727 | Time: 2024-07-31 08:04:06.512503 | Command: /bgmi | Target: 20.204.191.80 | Port: 10212 | Time: 180
+Username: nandyadu1c
+Target: 20.204.191.80
+Port: 10212
+Time: 180
+
+UserID: 6758082727 | Time: 2024-07-31 08:07:12.851258 | Command: /bgmi | Target: 20.204.191.80 | Port: 10212 | Time: 180
+Username: nandyadu1c
+Target: 20.204.191.80
+Port: 10212
+Time: 180
+
+UserID: 6758082727 | Time: 2024-07-31 08:10:25.609082 | Command: /bgmi | Target: 20.204.191.80 | Port: 10212 | Time: 180
+Username: nandyadu1c
+Target: 20.204.191.80
+Port: 10212
+Time: 180
+
+UserID: 6758082727 | Time: 2024-07-31 08:13:32.353233 | Command: /bgmi | Target: 20.204.191.80 | Port: 10212 | Time: 180
+UserID: 6758082727 | Time: 2024-07-31 08:13:40.993178 | Command: /bgmi | Target: 20.204.191.80 | Port: 10212 | Time: 180
+Username: nandyadu1c
+Target: 20.204.191.80
+Port: 10212
+Time: 180
+
+UserID: 6600486066 | Time: 2024-07-31 08:46:21.451701 | Command: /bgmi | Target: 4.213.65.181 | Port: 10454 | Time: 300
+Username: lopi_op_99
+Target: 4.213.65.181
+Port: 10454
+Time: 300
+
+UserID: 6758082727 | Time: 2024-07-31 10:06:26.280291 | Command: /bgmi | Target: 4.213.65.188 | Port: 11531 | Time: 180
+Username: nandyadu1c
+Target: 4.213.65.188
+Port: 11531
+Time: 180
+
+UserID: 6758082727 | Time: 2024-07-31 10:12:14.016248 | Command: /bgmi | Target: 20.235.93.164 | Port: 24689 | Time: 180
+Username: nandyadu1c
+Target: 20.235.93.164
+Port: 24689
+Time: 180
+
+UserID: 6758082727 | Time: 2024-07-31 13:24:40.192695 | Command: /bgmi | Target: 20.204.181.125 | Port: 29484 | Time: 240
+Username: nandyadu1c
+Target: 20.204.181.125
+Port: 29484
+Time: 240
+
+UserID: 6758082727 | Time: 2024-08-01 00:36:40.078291 | Command: /bgmi | Target: 20.219.3.152 | Port: 28973 | Time: 300
+Username: nandyadu1c
+Target: 20.219.3.152
+Port: 28973
+Time: 300
+
+UserID: 6758082727 | Time: 2024-08-01 00:38:07.970316 | Command: /bgmi | Target: 20.219.3.152 | Port: 28973 | Time: 300
+Username: nandyadu1c
+Target: 20.219.3.152
+Port: 28973
+Time: 300
+
+UserID: 6758082727 | Time: 2024-08-01 00:43:13.031296 | Command: /bgmi | Target: 20.219.3.152 | Port: 28973 | Time: 300
+Username: nandyadu1c
+Target: 20.219.3.152
+Port: 28973
+Time: 300
+
+UserID: 6758082727 | Time: 2024-08-01 01:55:58.112059 | Command: /bgmi | Target: 20.198.72.188 | Port: 17896 | Time: 180
+UserID: 6758082727 | Time: 2024-08-01 01:56:06.295995 | Command: /bgmi | Target: 20.198.72.188 | Port: 17896 | Time: 180
+Username: nandyadu1c
+Target: 20.198.72.188
+Port: 17896
+Time: 180
+
+Username: nandyadu1c
+Target: 20.198.72.188
+Port: 17896
+Time: 180
+
+UserID: 6758082727 | Time: 2024-08-01 01:59:15.023913 | Command: /bgmi | Target: 20.198.72.188 | Port: 17896 | Time: 300
+Username: nandyadu1c
+Target: 20.198.72.188
+Port: 17896
+Time: 300
+
+UserID: 6758082727 | Time: 2024-08-01 01:59:30.039988 | Command: /bgmi | Target: 20.198.72.188 | Port: 17896 | Time: 180
+Username: nandyadu1c
+Target: 20.198.72.188
+Port: 17896
+Time: 180
+
+UserID: 6758082727 | Time: 2024-08-01 02:06:21.422452 | Command: /bgmi | Target: 20.198.72.188 | Port: 17896 | Time: 180
+Username: nandyadu1c
+Target: 20.198.72.188
+Port: 17896
+Time: 180
+
+UserID: 6600486066 | Time: 2024-08-01 09:15:40.744616 | Command: /bgmi | Target: 20.235.93.150 | Port: 16592 | Time: 300
+Username: lopi_op_99
+Target: 20.235.93.150
+Port: 16592
+Time: 300
+
+UserID: 6758082727 | Time: 2024-08-01 09:18:02.422909 | Command: /bgmi | Target: 20.235.93.150 | Port: 16592 | Time: 300
+Username: nandyadu1c
+Target: 20.235.93.150
+Port: 16592
+Time: 300
+
+UserID: 6600486066 | Time: 2024-08-01 09:22:27.638329 | Command: /bgmi | Target: 20.235.93.150 | Port: 16592 | Time: 300
+Username: lopi_op_99
+Target: 20.235.93.150
+Port: 16592
+Time: 300
+
+UserID: 6758082727 | Time: 2024-08-01 09:23:42.129792 | Command: /bgmi | Target: 20.204.148.51 | Port: 14071 | Time: 300
+Username: nandyadu1c
+Target: 20.204.148.51
+Port: 14071
+Time: 300
+
+UserID: 6600486066 | Time: 2024-08-01 10:51:37.063261 | Command: /bgmi | Target: 20.198.104.134 | Port: 10461 | Time: 20
+Username: lopi_op_99
+Target: 20.198.104.134
+Port: 10461
+Time: 20
+
+UserID: 6600486066 | Time: 2024-08-01 10:54:20.515757 | Command: /bgmi | Target: 20.198.104.134 | Port: 10461 | Time: 20
+Username: lopi_op_99
+Target: 20.198.104.134
+Port: 10461
+Time: 20
+
+UserID: 6600486066 | Time: 2024-08-01 11:27:45.244673 | Command: /bgmi | Target: 20.204.39.91 | Port: 24860 | Time: 300
+Username: lopi_op_99
+Target: 20.204.39.91
+Port: 24860
+Time: 300
+
+UserID: 6600486066 | Time: 2024-08-01 11:34:06.603262 | Command: /bgmi | Target: 20.204.39.91 | Port: 24860 | Time: 300
+Username: lopi_op_99
+Target: 20.204.39.91
+Port: 24860
+Time: 300
+
+UserID: 6600486066 | Time: 2024-08-01 11:53:41.378747 | Command: /bgmi | Target: 20.204.39.58 | Port: 12036 | Time: 300
+Username: lopi_op_99
+Target: 20.204.39.58
+Port: 12036
+Time: 300
+
+UserID: 6758082727 | Time: 2024-08-01 13:01:56.378789 | Command: /bgmi | Target: 52.140.36.176 | Port: 22164 | Time: 300
+Username: nandyadu1c
+Target: 52.140.36.176
+Port: 22164
+Time: 300
+
+UserID: 6758082727 | Time: 2024-08-01 19:09:53.709315 | Command: /bgmi | Target: 20.235.14.255 | Port: 12906 | Time: 180
+Username: nandyadu1c
+Target: 20.235.14.255
+Port: 12906
+Time: 180
+
